@@ -1,7 +1,7 @@
 # Moodify---YoutubePlayer-based-on-mood-detected-by-FacialExpressionRecognition
 
 
-**Detect human's emotion through webcam(using CNN ) and made youtube player for playing a song based on valence and arousal linked to that emotion
+**Detect human's emotion through webcam(using CNN ) and made youtube player for playing a song based on valence and arousal linked to that emotion**
 
 >>API used for getting song and metadata based on valence and emotion:  http://b2b.musicovery.com/ 
 
